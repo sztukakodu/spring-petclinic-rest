@@ -36,7 +36,8 @@ There are actuator health check and info routes as well:
 ## OpenAPI REST API documentation presented here (after application start):
 
 You can reach the swagger UI with this URL
-[http://localhost:9966/petclinic/](http://localhost:9966/petclinic/swagger-ui.html).
+[http://localhost:9966/petclinic/]
+(http://localhost:9966/petclinic/swagger-ui/index.html).
 
 You then can get the Open API description reaching this URL [localhost:9966/petclinic/v3/api-docs](localhost:9966/petclinic/v3/api-docs).
 
